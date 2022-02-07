@@ -1,0 +1,87 @@
+body {
+	font-family: 'Roboto';
+	width: 100%;
+	height: auto;
+	color: #24292F;
+	margin: 0;
+	padding: 0;
+	background: white;
+}
+
+.mainheader {
+	padding : 10px;
+	margin: 0;
+	width: 100%;
+	height: 30px;
+	background-color: #24292F;
+}
+
+.mainheader h1 {
+	margin : 0;
+	padding : 0;
+}
+
+#sitetitle {
+	color: #ffffff;
+	font-size: 24px;
+	font-weight: bold;
+	float: left;
+	margin-left: 5px;
+}
+
+#hitsimg {
+	float: right;
+	margin-top: 5px;
+	margin-right: 20px;
+}
+
+.mainbox {
+	width: 75%;
+	height: auto;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 25px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	font-size: 14px;
+	color: #24292F;
+}
+
+#iconpost {
+	width: 75px;
+	height: 75px;
+}
+.menu {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#linkmenu {
+	text-decoration : none;
+	color: #2B6CD2;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#linkmenu:hover {
+	text-decoration: underline;
+	color: #ff0000;
+}
+
+#linkpost {
+	text-decoration : none;
+	color: #2B6CD2;
+}
+
+#linkpost:hover {
+	text-decoration: underline;
+	color: #ff0000;
+}
+
+.mainfooter {
+	width: 75%;
+	height: auto;
+	margin: auto;
+	padding: 25px;
+	padding-top: 0;
+}
